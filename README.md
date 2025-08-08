@@ -2,7 +2,7 @@
 
 ## About Me
 - Robotics and Machine Learning Master's Student at University of Cape Town
-- Focus on Software Development and Machine Learning
+- Focus on Software Development, Computer Vision and Machine Learning
 - Building innovative software solutions to address African challenges through tech
 
 ## Technical Skills
