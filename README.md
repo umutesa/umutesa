@@ -2,8 +2,7 @@
 
 ## About Me
 - Robotics and Machine Learning Master's Student at University of Cape Town
-- Focus on Software Development,Computer Vision and Machine Learning
-- I view engineering as a catalyst for social good; designing solutions that empower, include, and elevate communities.
+- Software Engineer
 
 ## Technical Skills
 
