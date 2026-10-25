@@ -1,8 +1,9 @@
 # 👋 Hi, I'm @umutesa
 
 ## About Me
-- Robotics and Machine Learning Master's Student at University of Cape Town
-- Software Engineer
+- Full Stack Software Engineer
+- Msc in Mechatronics specializing in Robotics, Machine Learning and Computer Vison (UCT)
+- BEng in Electrica and Computer Engineering (UCT)
 
 ## Technical Skills
 
