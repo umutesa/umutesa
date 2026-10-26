@@ -3,7 +3,7 @@
 ## About Me
 - Full Stack Software Engineer
 - Msc in Mechatronics specializing in Robotics, Machine Learning and Computer Vison (UCT)
-- BEng in Electrica and Computer Engineering (UCT)
+- BEng in Electrical and Computer Engineering (UCT)
 
 ## Technical Skills
 
